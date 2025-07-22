@@ -33,7 +33,7 @@ const Education: React.FC = () => {
                 <div className="space-y-4">
                   <div className="flex items-center gap-3">
                     <Award className="w-5 h-5 text-cyan-400" />
-                    <span className="text-gray-300">2020 - 2024</span>
+                    <span className="text-gray-300">2023 - 2027</span>
                   </div>
                   
                   <div className="flex items-start gap-3">

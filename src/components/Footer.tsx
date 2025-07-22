@@ -10,12 +10,12 @@ const Footer: React.FC = () => {
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/rahul-meena',
+      url: 'https://www.linkedin.com/in/rahul-meena-ra9636/',
       icon: <Linkedin className="w-5 h-5" />
     },
     {
       name: 'Instagram',
-      url: 'https://instagram.com/rahul.meena.npr',
+      url: 'https://www.instagram.com/rahul_meena_npr/?igsh=dHlxeTFwdTZzdDBw#',
       icon: <Instagram className="w-5 h-5" />
     },
     {

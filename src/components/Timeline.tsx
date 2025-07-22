@@ -8,7 +8,7 @@ const Timeline: React.FC = () => {
       title: 'DevOps Intern',
       company: 'LinuxWorld Informatics Pvt. Ltd.',
       location: 'Jaipur, India',
-      period: '2023 - Present',
+      period: '2025 - Present',
       type: 'work' as const,
       description: 'Gained hands-on experience in containerization, CI/CD pipelines, and cloud infrastructure management.',
       achievements: [
@@ -23,7 +23,7 @@ const Timeline: React.FC = () => {
       title: 'Full Stack Development',
       company: 'Personal Projects',
       location: 'Remote',
-      period: '2022 - Present',
+      period: '2025 - Present',
       type: 'project' as const,
       description: 'Built multiple web applications using MERN stack and integrated AI/ML capabilities.',
       achievements: [
@@ -38,7 +38,7 @@ const Timeline: React.FC = () => {
       title: 'B.Tech Electronics & Communication',
       company: 'Arya College of Engineering & IT',
       location: 'Jaipur, India',
-      period: '2020 - 2024',
+      period: '2023 - 2027',
       type: 'education' as const,
       description: 'Comprehensive education in electronics, communication systems, and emerging technologies.',
       achievements: [
